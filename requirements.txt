@@ -1,0 +1,2 @@
+https://github.com/pypa/pip-test-package/archive/master.tar.gz#egg=pip-test-package
+
