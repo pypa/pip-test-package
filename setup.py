@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(name='pip-test-package',
-    version='0.1.2',
+    version='0.1.1',
     author='PyPA',
     author_email='pypa@pypa.pypa',
     url='https://github.com/pypa',
